@@ -24,8 +24,8 @@ This project presents a comprehensive analysis of a dataset featuring the top 10
 
 The analysis was executed in Jupyter Notebook (Google Colab) using:
 * **Mounting on Drive:** `google.colab`
-* **Data Processing:** `pandas` and `numpy`
-* **Statistical analysis:** `scipy`,`skikit_posthoc`
+* **Data Processing:** `pandas`, `numpy`
+* **Statistical analysis:** `scipy`, `skikit_posthoc`
 * **Data Visualization:** `matplotlib`, `seaborn`, and `plotly.express`
 
 ## 📂 Project Structure
