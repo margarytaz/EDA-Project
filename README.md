@@ -2,7 +2,7 @@
 
 This project presents a comprehensive analysis of a dataset featuring the top 1000 movies on the IMDb platform, spanning a century of cinematography from 1920 to 2020. This project explores key features like movies' gross revenue, director popularity, genre distribution, runtimes, and actor influence to answer **35 stakeholder questions**. The analyis uncovers valuable trends and insights about the film industry.
 
-**Original dataset:** [IMDb Movies dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+**Original dataset:** [IMDb Movies dataset](dataset/imdb_top_1000.csv.xls)
 
 **Google Colab:** [Project in Google Colab environment](https://colab.research.google.com/drive/1VLs5IQADC7SdWJhMAotvlgTyyXJgV_LQ?usp=sharing)
 
