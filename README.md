@@ -122,7 +122,7 @@ This final part summarizes the main findings derived from the EDA.
   * The overall average IMDb rating for movies in the dataset is **$7.95$**.
   * The highest-rated movie is ***The Shawshank Redemption*** ($9.3$). **Frank Darabont** has the highest average rating among directors ($8.95$).
   * A small subset of **29 movies** achieved both a high IMDb rating ($\ge 8.5$) and a high Metascore ($\ge 85$).
-  * The **Adventure** genre boasts the highest average grossing ($\$165,731,278.64$), and the movies with highest grossings are ***Star Wars: Episode VII - The Force Awakens*** and ***Avengers: Endgame***.
+  * The **Adventure** genre boasts the highest average grossing ($165,731,278.64), and the movies with highest grossings are ***Star Wars: Episode VII - The Force Awakens*** and ***Avengers: Endgame***.
 
 #### **Key Relationships and Statistical Findings**
 
