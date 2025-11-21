@@ -1,35 +1,36 @@
-# 🎬 IMDb Top 1000 Movies (1920-2020) - Exploratory Data Analysis
+# 🎬 IMDb Top 1000 Movies (1920-2020) EDA
 
-This project presents a comprehensive Exploratory Data Analysis (EDA) of a dataset featuring the top 1000 movies from the IMDb platform, spanning a century of cinematography from 1920 to 2020. This project explores key features like movies' gross revenue, director popularity, genre distribution, runtimes, and actor influence to uncover trends and insights about film industry.
+This project presents a comprehensive analysis of a dataset featuring the top 1000 movies on the IMDb platform, spanning a century of cinematography from 1920 to 2020. This project explores key features like movies' gross revenue, director popularity, genre distribution, runtimes, and actor influence to answer **35 stakeholder questions**. The analyis uncovers valuable trends and insights about the film industry.
 
- ---
+**Original dataset:** [IMDb Movies dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
-## 🎯 Project Goal
+**Google Colab:** [Project in Google Colab environment](https://colab.research.google.com/drive/1VLs5IQADC7SdWJhMAotvlgTyyXJgV_LQ?usp=sharing)
 
-The primary objective of this project is to perform an extensive analysis of the selected IMDb dataset. This includes:
+**Jupyter Notebook file:** [Project saved as .ipynb in this repo](jupyter_notebook/IMDb_Dataset.ipynb)
 
-1.  **Cleaning and preparing** the raw data for the analysis.
-2.  **Answering specific analytical questions** about the dataset's composition.
-3.  **Visualizing relationships** between variables in form of correlation scatter plots, heatmaps, and line charts.
-4.  **Deriving meaningful insights** about popular movies, directors, actors, and market trends over the 100-year period.
+## 🎯 Project Goals
 
------
+**EDA Aim:** the primary objective of this project is to perform an analysis to uncover overall trends in film industry among highly rated movies released between 1920 and 2020.
 
-## 🛠️ Tech Environment
+**Tasks:**
+* **Initial Inspection:** to check the original dataset on any missing values or duplicates.
+* **Data Manipulation:** to update data types and values for further analysis.
+* **Descriptive Statistics:** to aggregate data on movies, gross revenues, actors and directors to answer stakeholders' questions.
+* **Visualizing relationships** between variables in form of correlation scatter plots, heatmaps, and line charts.
+* **Hypothesis testing:** to perform correlation tests to check if director's or actor's names have influence on gross revenue, also to define relationships between number of votes on the platform and movie rating, runtime and rating.
+* **Conclusions and recommendations:** to summarize findings deriving meaningful insights about popular movies, directors, actors, and market trends over the 100-year period.
 
-**Language:** Python 🐍
+## 🐍 Python libraries
 
-**Environment:** Google Colab (Notebook)
-
-**Libraries:** `pandas`, `numpy`, `scipy`, `matplotlib`, `skikit_posthoc`, `seaborn`, `plotly.express`
-
-**Data Source:** Top 1000 IMDb Movies (1920-2020) on [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
-
------
+The analysis was executed in Jupyter Notebook (Google Colab) using:
+* **Mounting on Drive:** `google.colab`
+* **Data Processing:** `pandas` and `numpy`
+* **Statistical analysis:** `scipy`,`skikit_posthoc`
+* **Data Visualization:** `matplotlib`, `seaborn`, and `plotly.express`
 
 ## 📂 Project Structure
 
-The entire analysis is conducted within a single Jupyter Notebook executed in the Google Colab environment. The project is divided into three main phases:
+The project is divided into three main phases:
 
 ### **Part 1: Data Cleaning**
 
