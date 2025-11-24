@@ -22,7 +22,7 @@ This project presents a comprehensive analysis of a dataset featuring the top 10
 
 ## 🐍 Python libraries
 
-The analysis was executed in Jupyter Notebook (Google Colab) using:
+The analysis was executed in Jupyter Notebook (Google Colab) using Python libraries:
 * **Mounting on Drive:** `google.colab`
 * **Data Processing:** `pandas`, `numpy`
 * **Statistical analysis:** `scipy`, `skikit_posthoc`
