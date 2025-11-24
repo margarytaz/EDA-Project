@@ -1,6 +1,6 @@
 # 🎬 IMDb Top 1000 Movies (1920-2020) EDA
 
-This project presents a comprehensive analysis of a dataset featuring the top 1000 movies on the IMDb platform, spanning a century of cinematography from 1920 to 2020. This project explores key features like movies' gross revenue, director popularity, genre distribution, runtimes, and actor influence to answer **35 stakeholder questions**. The analyis uncovers valuable trends and insights about the film industry.
+This project presents a comprehensive analysis of a dataset featuring the top 1000 movies on the IMDb platform, spanning a century of cinematography from 1920 to 2020. This project explores key features like movies' gross revenue, director popularity, genre distribution, runtimes, and actor influence to answer **35 stakeholder questions**. The analysis uncovers valuable trends and insights about the film industry.
 
 **Original dataset:** [IMDb Movies dataset](dataset/imdb_top_1000.csv.xls)
 
